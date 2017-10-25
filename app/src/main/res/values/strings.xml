@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Stha_44</string>
+    <string name="title_activity_trailer_hire">Trailer Hire</string>
+    <string name="title_activity_pay_calculator">Pay Calculator</string>
+    <string name="title_activity_order_calculator">Order Calculator</string>
+    <string name="number_of_shots">Number of shots</string>
+    <string name="total_spent">Total spent ..</string>
+    <string name="number_of_hours">Number of hours</string>
+    <string name="vodka_soda_r25_shot">Vodka-Soda (R25/shot)</string>
+    <string name="calculate">calculate</string>
+    <string name="pizza_r20_slice">Pizza (R20/slice)</string>
+    <string name="parking_r5_hour">Parking (R5/hour)</string>
+    <string name="number_of_slices">Number of slices</string>
+</resources>
